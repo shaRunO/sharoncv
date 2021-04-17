@@ -47,14 +47,13 @@
     
     @media screen and (max-width:768px) {
         body {
-            max-width: 500px;
-            margin: 20px auto;
+            margin: 30px;
             background-color: rgb(217, 210, 224);
         }
         .Title {
             color: black;
             text-align: left;
-            font-size: 30px;
+            font-size: 15px;
         }
         .details {
             margin: 0px;
@@ -64,9 +63,8 @@
         }
         .body-content {
             text-align: justify;
-            font-size: 30px;
-            /* max-width: 300px;
-            margin: 20px auto;*/
+            font-size: 15px;
+       
         }
         .content-list {
             max-width: 400px;
